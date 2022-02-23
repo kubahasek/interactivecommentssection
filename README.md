@@ -6,17 +6,11 @@ This is a solution to the [Interactive comments section challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -31,10 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9/hub/interactive-comments-section-YYoSxeQGb)
-- Live Site URL: [Add live site URL here](https://interactivecommentssection.vercel.app/)
-
-## My process
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9/hub/interactive-comments-section-YYoSxeQGb)
+- Live Site URL: [Live Site](https://interactivecommentssection.vercel.app/)
 
 ### Built with
 
@@ -50,5 +42,5 @@ I gave myself the challenge to do the delete modal animated, and I acomplished t
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kubahasek)
-- Twitter - [@yourusername](https://www.twitter.com/kubahasek)
+- Frontend Mentor - [@kubahasek](https://www.frontendmentor.io/profile/kubahasek)
+- Twitter - [@kubahasek](https://www.twitter.com/kubahasek)
