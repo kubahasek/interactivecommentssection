@@ -74,11 +74,5 @@ const comments = {
 export default function handler(req, res) {
   if (req.method === "GET") {
     return res.status(200).json(comments);
-  } else if (req.method === "DELETE") {
-    // TODO: Delete comment
-  } else if (req.method === "POST") {
-    // TODO: Add comment
-  } else if (req.method === "PUT") {
-    // TODO: Update comment
   }
 }
