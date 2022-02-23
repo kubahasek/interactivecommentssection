@@ -1,7 +1,7 @@
 module.exports = {
-  arrowParens: 'always',
-  singleQuote: true,
+  arrowParens: "always",
+  singleQuote: false,
   tabWidth: 2,
-  semi: false,
-  tailwindConfig: './tailwind.config.js',
-}
+  semi: true,
+  tailwindConfig: "./tailwind.config.js",
+};
